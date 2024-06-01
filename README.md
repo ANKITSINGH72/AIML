@@ -1,5 +1,4 @@
 # AIML
-clustering and classification code for internshala assignment
 Task 1: Machine Learning - Clustering
 Task: Use any clustering technique to extract patterns or segregate data into groups.
 User Story: User should be able to provide a data point (a row) and program should be able to identify
